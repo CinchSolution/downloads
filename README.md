@@ -130,15 +130,14 @@ See full tutorials here:
 
 - **Direct Sound Card Access** for true original audio  
 - **CAC Technology** for clean, lossless recording  
-- **WASAPI Recording** support for high fidelity  
-- **Compatible with Spotify, Apple Music, Amazon Music**, and more  
+- **WASAPI Recording** support for high fidelity   
 
 ---
 
 ## ❓ Frequently Asked Questions
 
 **Q: Is it safe to use Cinch Audio Recorder?**  
-A: Yes. It records audio in real time like a microphone and doesn’t interact with Spotify or other streaming APIs.
+A: Yes. It records audio in real time like a microphone and doesn’t interact with streaming APIs.
 
 **Q: Can I mute and still record?**  
 A: Yes. You can mute your speakers; just don’t mute the player itself.
