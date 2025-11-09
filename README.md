@@ -21,7 +21,7 @@
 
 ## 📖 Overview
 
-**Cinch Audio Recorder Pro** is a professional desktop application for recording streaming audio, allowing you to easily capture music from Spotify, Apple Music, Amazon Music, and other streaming platforms. The software automatically splits recorded content into individual songs and saves them as high-quality audio files with complete ID3 tags and album artwork.
+**Cinch Audio Recorder Pro** is a professional desktop application for recording streaming audio, allowing you to easily capture music from all streaming platforms. The software automatically splits recorded content into individual songs and saves them as high-quality audio files with complete ID3 tags and album artwork.
 
 ### ✨ Why Choose Cinch?
 
@@ -38,7 +38,7 @@
 ## 🚀 Key Features
 
 ### 🎵 Audio Recording
-- **Streaming Recording** - Supports recording from all major streaming platforms including Spotify, Apple Music, Amazon Music, and more  
+- **Streaming Recording** - Supports recording from all major streaming platforms 
 - **High-Quality Output** - Supports MP3 (320kbps), M4A, WMA, AAC, OGG, WAV, ALAC, AIFF, FLAC, and more formats  
 - **Automatic Song Splitting** - Intelligently detects song gaps and automatically splits recorded content into individual song files  
 - **Silent Recording** - Uses CAC technology to record while your computer is muted, ensuring recording quality remains unaffected  
